@@ -1,2 +1,5 @@
-# Count
-Download the file CountDownExample.java from the course web (in the Lab page). a) Compile and run it. b) Generate JavaDoc. From where you have CountDownExample.java stored, create a directory called doc. (mkdir doc from the command line in your directory is faster than using windows to do it!). Type the following command on the command line:  javadoc –d doc CountDownExample.java  This command has created a whole bunch of different files in the doc directory. Open up index.html in your browser and take a look at what it has produced. c) Alter the program CountDownExample.java so that instead of counting down it counts up. When it gets to the end of the count, it should print All done! (rather than Time up!) You also need to change the javadoc comments to your own comments. Name your program CountUpExample.java. d) Generate JavaDoc for CountUpExample.java.
+# Task Title: Count 
+
+# Task Description: 
+
+Write a Java program that counts up and down. When it gets to the end of the count when counting up, it should print "All done!" and "Time up!" when counting down.
