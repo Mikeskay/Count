@@ -1,0 +1,18 @@
+package count.test;
+
+import count.base.Count;
+import count.base.Count;
+
+public class CountTest{
+
+    public static void main (String[] args) {
+	    Count up = new Count();
+            up.countUp(5);
+
+            Count down = new Count();
+            down.countDown(5);
+	}
+
+
+
+}
